@@ -1,1 +1,1 @@
-# Karamchand-Gen-AI-foundations.
+# Karamchand-Gen-AI-Foundations.
